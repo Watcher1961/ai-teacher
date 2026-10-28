@@ -1,0 +1,4 @@
+interface:
+  display_name: "ai-teacher"
+  short_description: "基于学习材料开展自学辅导、检索练习与反馈，让学习者形成可检验的理解"
+  default_prompt: "使用 $ai-teacher，基于我的材料和学习目标帮助我理解、练习并检验掌握程度。"
